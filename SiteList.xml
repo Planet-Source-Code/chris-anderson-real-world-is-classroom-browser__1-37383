@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sites>
+        <homepage>[CDATA[http://www.google.com/]]</homepage>
+	<site>
+		<name>Real World IS</name>
+		<url>[CDATA[http://www.realworldis.com/]]</url>
+	</site>
+	<site>
+		<name>Google</name>
+		<url>[CDATA[http://www.google.com/]]</url>
+	</site>
+	<site>
+		<name>PlanetSourceCode</name>
+		<url>[CDATA[http://www.planetsourcecode.com/]]</url>
+	</site>
+	<site>
+		<name>CNN</name>
+		<url>[CDATA[http://www.cnn.com/]]</url>
+	</site>
+</sites>
